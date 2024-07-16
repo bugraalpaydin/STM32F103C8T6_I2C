@@ -1,2 +1,3 @@
-# STM32F103C8T6_I2C
-I2C driver for STM32F103C8T6 using registers.
+#### STM32F103C8T6 comm with EEPROM via I2C ####
+
+In this project, STM32F103C8T6 microcontroller and AT24C256C model EEPROM module were used. Communication between two ICs is provided via I2C.
